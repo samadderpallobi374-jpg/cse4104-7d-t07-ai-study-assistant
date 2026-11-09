@@ -8,7 +8,7 @@
 
 StudyGenie is a full-stack, AI-integrated web application designed to act as a personal study companion for students. By simply pasting text or uploading documents, students can instantly generate concise summaries and practice quizzes.
 
-## Key Features
+## Proposed Features
 
 - **Secure Authentication:** Login and registration system using JWT.
 - **AI Summarizer:** Generates short summaries from long texts using AI.
